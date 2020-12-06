@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<embed src="https://bddatascience/bddatascience.github.io./CV.pdf" type="application/pdf" />
+<embed src="https://bddatascience.github.io./CV.pdf" type="application/pdf" />
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bddatascience/bddatascience.github.io./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
